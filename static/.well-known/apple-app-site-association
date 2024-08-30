@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+                "appID": "YY8294K333.com.ticketpro.ripastop24",
+                "paths": ["/wwdc/news/", "/videos/wwdc/2015/*"]
+            },
+            {
+                "appID": "YY8294K333.com.ticketpro.ripastop24",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
